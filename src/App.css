@@ -1,0 +1,30 @@
+.nav-link {
+  color: #fff !important;
+}
+
+.owl-theme {
+  width: 277px;
+  height: 580px;
+  margin-left: 135px;
+  margin-top: 8px;
+  border-radius: 20px;
+  overflow: hidden !important;
+}
+
+.currency-card .currency-flag {
+  width: 80px;
+}
+.currency-card {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  transition: 0.4s;
+  margin-top: 20px;
+}
+
+.list-upperalpha {
+  list-style-type: upper-alpha !important;
+}
